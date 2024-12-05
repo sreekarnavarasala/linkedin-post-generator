@@ -1,4 +1,4 @@
-json
+jsonlib
 pandas 
 langchain_groq  
 os
